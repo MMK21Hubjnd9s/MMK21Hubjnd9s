@@ -15,24 +15,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<h3 align="center"> Hi there 👋</h3>
 
-
-<p align="center"><img src="https://github.com/aletisunil/aletisunil/blob/master/IMG_0288.gif" /></p>
-
-
-
-<hr>
 <p align="center">
-  <i><b>Let's connect and chat!</b></i>
-
-  <p align="center">
-    <a href="https://twitter.com/aleti_sunil" alt="Twitter"><img src="https://github.com/aletisunil/aletisunil/blob/master/twitter.png" height="30" width="30"></a>&nbsp;
-    <a href="https://www.linkedin.com/in/sunilaleti/" alt="Linkedin"><img src="https://github.com/aletisunil/aletisunil/blob/master/linkedin.png" height="30" width="30"></a>&nbsp;
-    <a href="https://www.instagram.com/sunil_aleti" alt="Instagram"><img src="https://github.com/aletisunil/aletisunil/blob/master/instagram.png" height="30" width="30"></a>&nbsp;
-     <a href="https://t.me/sunilaleti" alt="Telegram"><img src="https://github.com/aletisunil/aletisunil/blob/master/telegram.png" height="30" width="30"></a>&nbsp;
-    <a href="https://dev.to/aletisunil"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" height="30" width="30"></a>&nbsp;
-    <a href="https://aletisunil.github.io/"><img src="https://github.com/aletisunil/aletisunil/blob/master/globe.png" height="30" width="30"></a>
-
-  </p>
-    
+I'm Akas, a self-motivated tech enthusiast and full stack web developer.
 </p>
+
+<h4 align="center">
+💻 full stack developer <a href="https://github.com/machnetinc">@Machnet</a> | 🌱 building <a href="https://github.com/akasrai/daily-quiz-mobile">Daily Quiz</a> | 💬 connect <a href="https://twitter.com/akaskyiar">@akaskyiar</a>
+</h4>
+<p  align="center">
+<a href="https://akasrai.github.io/">https://akasrai.github.io</a>
+</p>
+
+<br/>
+<h3 align="center">
+My Tech Stacks
+</h3>
